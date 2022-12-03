@@ -1,0 +1,19 @@
+{
+  "name": "typescript-design-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ckstn0777/Typescript-Design-Pattern.git",
+  "author": "ckstn0777 <ckstn0777@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
