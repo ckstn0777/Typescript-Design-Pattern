@@ -9,7 +9,7 @@ export default class WeatherStation implements ISubject {
   private pressure: number
 
   constructor() {
-    this.observers = []
+    this.observers = [] // 옵저버 등록
   }
 
   registerObserver(o: IObserver) {
