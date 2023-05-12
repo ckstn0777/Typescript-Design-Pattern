@@ -8,6 +8,6 @@ export default class DarkRoast extends Beverage {
   }
 
   cost(): number {
-    return 1.0
+    return 1.0 // 음료 기본 가격
   }
 }
